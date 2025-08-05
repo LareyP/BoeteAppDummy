@@ -17,7 +17,7 @@ export const users = [
         role: "speler",
         goedgekeurd: true,
     },
-    {
+        {
         id: 3,
         name: "Test Gebruiker",
         username: "Test",
