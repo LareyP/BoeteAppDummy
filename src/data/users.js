@@ -17,5 +17,13 @@ export const users = [
         role: "speler",
         goedgekeurd: true,
     },
+        {
+        id: 3,
+        name: "Test Gebruiker",
+        username: "Test",
+        password: "test123",
+        role: ["speler", "admin"],
+        goedgekeurd: true,
+    },
 ];
 
